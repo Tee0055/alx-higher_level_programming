@@ -3,6 +3,6 @@
 
 def islower(x):
     if(ord(x) >= 97 and ord(x) <= 122):
-        return true
+        return True
     else:
-        return false
+        return False
